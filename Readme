@@ -1,1 +1,1 @@
-RSA Project
+A client-side RSA-OAEP (SHA-256) key-pair generator, encryptor, and decryptor powered by the native W3C Web Cryptography API (SubtleCrypto). Supports 2048/3072/4096-bit keys, automated multi-block chunking for arbitrary-length messages, SPKI/PKCS#8 PEM interoperability with OpenSSL, and a lightweight Vite glassmorphic UI.
